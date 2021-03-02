@@ -1,6 +1,11 @@
 # Sudoku_Solver
-A algorithm used to solve a sudoku.
+Ein Programm, dass mittels backtracking ein Sudoku löst.
 
-Only works with 9x9 Sudokus
+# Abhängigkeiten
+-Python3
 
-Sudokus need to be 2-Dimensional Arrays
+**Sonstige Infos**
+Sudokus werden als 2D-Array eingelesen.
+Funktioniert nur mit 9x9 Sudokus.
+
+
